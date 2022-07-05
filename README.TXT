@@ -1,0 +1,2 @@
+This code is applying the phase locked loop, that is  is 
+a feedback control system that automatically adjusts the phase of a locally generated signal to match the phase of an input signal(Utility Grid).
